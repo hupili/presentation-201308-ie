@@ -16,4 +16,8 @@ I have made slides using MD multiple times.
 This is the first time I use mdpress.
 This tools is great!
 
+## Problems
 
+   * The slides transformation is not correct.
+   I set all transformations to be horizontal sliding in the source.
+   Not work.
