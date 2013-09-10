@@ -5,7 +5,7 @@ title: Presentation Preparation
 
 # Presentation
 
-```
+```python
 {
     'title': 'Presentation',
     'subtitle': 'pre-candidacy exam preparation',
@@ -16,12 +16,11 @@ title: Presentation Preparation
         'room': 'SHB802',
         'year': 2
     },
-    'other': {
-        'source': 'https://github.com/hupili/presentation-201308-ie/',
-        'operation': 'press arrow keys: <--; -->'
-    }
+    'operation': 'press arrow keys: <--; -->'
 }
 ```
+
+[source on GitHub](https://github.com/hupili/presentation-201308-ie/)
 
 ----
 = data-x="1000"
