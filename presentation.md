@@ -9,13 +9,16 @@ title: Presentation Preparation
 {
     'title': 'Presentation',
     'subtitle': 'pre-candidacy exam preparation',
-    'author':
-    {
+    'author': {
         'name': 'Pili Hu',
         'email': 'hupili@ie.cuhk.edu.hk',
         'homepage': 'http://hupili.net/',
         'room': 'SHB802',
         'year': 2
+    },
+    'other': {
+        'source': 'https://github.com/hupili/presentation-201308-ie/',
+        'operation': 'press arrow keys: <--; -->'
     }
 }
 ```
